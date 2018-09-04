@@ -7,7 +7,7 @@ In this project, I augment the minimax adversarial search algorithm with a book 
 
 ### Final Report
 
-Please see [report.pdf](https://github.com/ataxali/genetic_opening_book/blob/master/report.pdf) for a summary of the evolutionary genetic algorithm used to construct the opening-move book. 
+Please see [the included report](https://github.com/ataxali/genetic_opening_book/blob/master/summary_and_exp_results.pdf) for a summary of the evolutionary genetic algorithm used to construct the opening-move book, and experimental results. 
 
 
 ### Isolation
